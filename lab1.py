@@ -1,2 +1,2 @@
-print("Hello everyone...")
-print("vvce")
+print("hello everyone")
+# print("devopslab")
