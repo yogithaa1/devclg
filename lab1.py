@@ -1,2 +1,3 @@
-print("Hello everyone...")
-print("hhdgj")
+print("hello everyone")
+print("devopslab")
+print("banglore")
