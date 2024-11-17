@@ -1,2 +1,2 @@
 print("vvce")
-print("hii.")
+print("hii")
